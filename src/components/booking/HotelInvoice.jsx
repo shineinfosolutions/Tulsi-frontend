@@ -1557,9 +1557,9 @@ export default function Invoice() {
                   <p className="font-bold text-sm sm:text-base">TULSI RESORT </p>
                   <p className="text-xs">In Front Of Indian Oil Petrol Pump, Little Flower School Khorabar,</p>
                   <p className="text-xs">Deoria By Pass Road, Khorabar, Gorakhpur-273010, Uttar Pradesh</p>
+                  <p className="text-xs font-semibold">GSTIN: 09AAEPY0966F2ZB</p>
                   <p className="text-xs">Website: <a href="https://tulsiresort.com" className="text-blue-600">tulsiresort.com</a></p>
                   <p className="text-xs">contact@tulsiresort.in</p>
-                  {/* <p className="text-xs font-semibold">GSTIN: 09ACIFA2416J1ZF</p> */}
                 </div>
               </div>
               <div className="contact-info flex flex-col sm:flex-row items-center space-y-2 sm:space-y-0 sm:space-x-4">
